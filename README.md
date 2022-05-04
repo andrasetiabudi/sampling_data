@@ -1,7 +1,7 @@
 # sampling_data
 
-# pertama melakukan download data menggunakan wget di url berikut
-# https://github.com/labusiam/dataset/raw/main/weather_data.xlsx
+#pertama melakukan download data menggunakan wget di url berikut:
+#https://github.com/labusiam/dataset/raw/main/weather_data.xlsx
 
 #kedua melakukan convert file weather_data.xlsx ke csv menggunakan in2csv setiap sheetnya
 
